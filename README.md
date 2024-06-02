@@ -24,7 +24,7 @@
 - notif/: Код микросервиса для рассылки уведомлений о детектах
 - lct/: Код микросервиса для выставления задач распознавания и просмотрв результатов
 
-[Screencast]([https://drive.google.com/drive/folders/11LHpT0U2XkTOFveiDEivRpTK--nC6RiL?usp=share_link](https://drive.google.com/file/d/1uU5B6kbLZbGLeWevjPRgDa5c-9WsctLp/view?usp=sharing)) сервиса
+[Screencast](https://drive.google.com/file/d/1uU5B6kbLZbGLeWevjPRgDa5c-9WsctLp/view?usp=sharing) сервиса
 
 Использование
 + 1 вариант, без docker 
