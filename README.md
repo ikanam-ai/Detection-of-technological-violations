@@ -37,6 +37,7 @@
   - запустить все миикросервисы из docker-compose: docker-compose up
     
 *Список всех переменных окружения:
+```
 MONGO_HOST: Адрес сервера MongoDB.
 MONGO_PORT: Порт сервера MongoDB (по умолчанию 27017).
 MONGO_DATABASE: Имя базы данных MongoDB.
@@ -57,6 +58,7 @@ BINDING_KEY: Ключ привязки RabbitMQ (используется при
 MODEL_PATH: Путь к файлу yolo модели.
 USER_LOGIN: Логин для авторизации на сервисе
 USER_PASSWORD: Пароль для авторизации на сервисе
+```
 *Дефотные данные для входа:
 - Логин: jsmith
 - Пароль: abc
