@@ -1,4 +1,8 @@
-
+<p align="center">
+     <img src="./png-rzdl.png" alt="Логотип проекта" width="500" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+     <H2 align="center">Команда Ikanam 1218 </H2> 
+    <H2 align="center">Автоматизация выявления технологических нарушений"</H2> 
+</p>
 
 
 Репозиторий команды ikanam 1218
